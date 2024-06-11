@@ -26,4 +26,3 @@ alert(Restar(a,b));
 // Solicitamos al usuario que ingrese los valores de a y b mediante el método prompt.
 // Convertimos los valores ingresados a números enteros usando parseInt.
 // Llamamos a la función Restar con los valores ingresados y mostramos el resultado en la consola.
-

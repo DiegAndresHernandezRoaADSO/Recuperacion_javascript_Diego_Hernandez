@@ -27,6 +27,3 @@ alert(resultado); // Mostramos el resultado de la multiplicación al usuario
 // Luego, se solicita al usuario que ingrese los valores de 'a' y 'b' mediante el método 'prompt'.
 // Estos valores se pasan como argumentos a la función 'multiplicacion'.
 // Finalmente, se muestra el resultado de la multiplicación al usuario mediante un mensaje de alerta.
-
-
-
