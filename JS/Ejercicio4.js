@@ -2,5 +2,10 @@
 const base = parseInt(prompt("Introduce la base:"));
 const exponente = parseInt(prompt("Introduce el exponente:"));
 
-const resultado = Math.pow(base, exponente);
+let resultado = 1;
+
+for (let i = 0; i < exponente; i++) {
+    resultado *= base;
+}
+
 console.log(`El resultado de ${base} elevado a la potencia ${exponente} es: ${resultado}`);
